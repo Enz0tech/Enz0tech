@@ -1,7 +1,5 @@
-![asd](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd5dGVpdGI2dWFqcGQ4b3QxZ3V6ZmRtbnhoY3E2dG15NnJ6bXk3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPpkvgTIJ817dfQOXI/giphy.gif)
-
 <div align="center">
-  <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd5dGVpdGI2dWFqcGQ4b3QxZ3V6ZmRtbnhoY3E2dG15NnJ6bXk3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPpkvgTIJ817dfQOXI/giphy.gif></img>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd5dGVpdGI2dWFqcGQ4b3QxZ3V6ZmRtbnhoY3E2dG15NnJ6bXk3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPpkvgTIJ817dfQOXI/giphy.gif" width="1050">
 </div>
 
 ### `lang="en"`  { *Hello there*👋 }
