@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd5dGVpdGI2dWFqcGQ4b3QxZ3V6ZmRtbnhoY3E2dG15NnJ6bXk3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VPpkvgTIJ817dfQOXI/giphy.gif" width="1050" height="250">
-  <img src="">
 </div>
 
 ### `lang="en"`  { *Hello there*👋 }
@@ -11,11 +10,7 @@ ___
 
 Меня зовут **Иван Антарес**, я занимаюсь веб-разработкой, в частности Frontend, c февраля 2024 года.  
 В данный момент изучаю HTML, CSS, JavaScript, успешно выполняю учебные проекты и решаю задачи.
-* 🌱 - Учусь с большим интересом.
-* 🔭 - Всегда в поиске информации, обрабатываю её, практикую.
-* ⚡ - Неимоверный запал на изучение.
-* 📫 - как со мной связаться? --> [Контакты](https://github.com/Enz0tech#%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B)
-  
+
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
@@ -23,9 +18,21 @@ ___
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 
-### Контакты
+#### Контакты
 [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/enzotech)
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/enzotech)
+___
+
+### О себе, с небольшим креативом
+* <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFrOXJuZThnb3VramwwNTMwZWplOHB2dW9kZzFzN3VrY2U1b3g5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="55" height="55" align="center" > Учусь с большим интересом.
+  
+* <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2c4aWhtNTkxdmozMm9xOXViZ2k4Mnc5aWs1MDNsbzdqOHZwYnVpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n6WywJyh39n1pBu/giphy-downsized.gif" width="55" height="55" align="center" > Всегда в поиске информации, обрабатываю её, практикую.
+ 
+* <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRsbTJxamcyam9zcXd3YW1xejdnZDdsdnlqNm1idnpvNWRzaDY4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pzLJifxEvLpe/giphy-downsized.gif" width="135" height="60" align="center" > Неимоверный запал на изучение.
+
+* Как со мной связаться? <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRtc3huZzR2b3oyMTFnc2VyczMxMjJqcWtqeTFmc3V3dGgwMDJ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PWBCZGqdulucLMDy5f/giphy.gif" width="55" height="25" align="center" >  [Контакты](https://github.com/Enz0tech#%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B) 
+  
+
 ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enz0tech&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
@@ -33,3 +40,7 @@ ___
 
 ### ✨Хорошего дня!✨
 ### ✨Have a good day!✨
+
+<img src="https://media1.tenor.com/m/XCKZfD-GO48AAAAC/cat-blast-off.gif" width="80" height="110" align="center">  
+
+<img src="https://komarev.com/ghpvc/?username=enz0tech&style=flat-square&color=blue" alt=""/>
