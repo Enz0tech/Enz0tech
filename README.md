@@ -14,8 +14,7 @@ ___
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-![Bower License](https://img.shields.io/bower/l/bootstrap)
-
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
 
 #### Контакты
 [![VK](https://img.shields.io/badge/-VK-333?style=for-the-badge&logo=Vk&logoColor=27A0D9)](https://vk.com/enzotech)
