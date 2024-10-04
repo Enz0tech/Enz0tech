@@ -5,7 +5,7 @@
 ___
 ## Frontend developer
 
-Меня зовут **Иван Антарес**, я занимаюсь веб-разработкой, в частности Frontend, c февраля 2024 года.  
+Меня зовут **Иван Антарес**, я занимаюсь Frontend разработкой, c февраля 2024 года.  
 В данный момент изучаю HTML, CSS, JavaScript, успешно выполняю учебные проекты и решаю задачи.
 
 ### Мой стек технологий
@@ -14,6 +14,7 @@ ___
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
 ![Materializecss](https://img.shields.io/badge/-Materializecss-333?style=for-the-badge&logo)
 
