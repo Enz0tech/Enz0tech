@@ -25,11 +25,11 @@ HTML, CSS, JavaScript - наше всё!
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/enzotech)
 ___
 ### О себе, с креативом:
-* <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFrOXJuZThnb3VramwwNTMwZWplOHB2dW9kZzFzN3VrY2U1b3g5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="55" height="55" align="center" > Учусь с большим интересом.
+* <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFrOXJuZThnb3VramwwNTMwZWplOHB2dW9kZzFzN3VrY2U1b3g5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="55" height="55" align="center" > Изучаю всё с большим интересом.
   
 * <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2c4aWhtNTkxdmozMm9xOXViZ2k4Mnc5aWs1MDNsbzdqOHZwYnVpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n6WywJyh39n1pBu/giphy-downsized.gif" width="55" height="55" align="center" > Всегда в поиске информации, обрабатываю её, практикую.
  
-* <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRsbTJxamcyam9zcXd3YW1xejdnZDdsdnlqNm1idnpvNWRzaDY4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pzLJifxEvLpe/giphy-downsized.gif" width="135" height="60" align="center" > Неимоверный запал на изучение.
+* <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRsbTJxamcyam9zcXd3YW1xejdnZDdsdnlqNm1idnpvNWRzaDY4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pzLJifxEvLpe/giphy-downsized.gif" width="135" height="60" align="center" > Неимоверный запал на познание.
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enz0tech&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=enz0tech&show_icons=true&hide=prs,issues,contribs&theme=dark)
