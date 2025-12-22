@@ -13,6 +13,8 @@ HTML, CSS, JavaScript - наше всё!
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=sass)
+![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=gulp)
+![Vue](https://img.shields.io/badge/-Vue-333?style=for-the-badge&logo=vuedotjs)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=Figma)
